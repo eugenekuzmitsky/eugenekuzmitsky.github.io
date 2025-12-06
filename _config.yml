@@ -26,6 +26,8 @@ description: >- # used by seo meta and the atom feed
 url: "https://eugenekuzmitsky.github.io"
 baseurl: "" 
 
+gems: [jekyll-paginate]
+
 github:
   username: eugenekuzmitsky # change to your GitHub username
 
