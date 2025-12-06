@@ -27,7 +27,7 @@ url: "https://eugenekuzmitsky.github.io"
 baseurl: "" 
 
 gems: [jekyll-paginate]
-
+plugins: [jekyll-paginate]
 github:
   username: eugenekuzmitsky # change to your GitHub username
 
