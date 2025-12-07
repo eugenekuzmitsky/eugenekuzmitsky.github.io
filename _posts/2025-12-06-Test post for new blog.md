@@ -13,5 +13,5 @@ A little table right here:
 | --- | --- |
 | v1  | v2  |
 
-!/assets/[Image Description](/images/Pasted_image_20251206171124.png)
+![Image Description](/assets/images/Pasted_image_20251206171124.png)
 
